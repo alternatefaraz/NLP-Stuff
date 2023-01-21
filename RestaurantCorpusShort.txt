@@ -1,0 +1,1232 @@
+33_1_0001 okay let's see i want to go to a thai restaurant . [uh] with less than ten dollars per person
+33_1_0002 <i> <like> <to> <eat> [uh] i like to eat at lunch time . so that would be eleven a__m to one p__m
+33_1_0003 i don't want to walk for more than five minutes
+33_1_0004 tell me more about the [uh] na- nakapan [uh] restaurant on martin luther king
+33_1_0005 i like to go to a hamburger restaurant
+33_1_0006 let's start again
+33_1_0007 i like to get a hamburger at an american restaurant
+33_1_0008 i'd like to eat dinner . and i don't mind walking [uh] . for half an hour
+33_1_0009 i don't want to spend more than [uh] ten dollars for a hamburger
+33_1_0010 <(te)-ll> <me> <more> <about> <the> <two> <barbecue> <restaurants> tell me more about the two barbecue restaurants you listed
+33_1_0011 tell me about everett and jones barbecue flint's barbecue and the thai barbecue please
+33_1_0012 where's the best place to get soup in berkeley
+33_1_0013 where's the best place to get soup in berkeley for lunch for under ten dollars . [uh] with a ten minute walk
+33_1_0014 what types of food do you understand
+33_1_0015 i want indian food and i have chuck's car so i can drive in but i only want to drive for ten minutes and i only want to pay five dollars
+33_1_0016 what about the indian cafe . can you give me information about that
+33_1_0017 tell me about pasand's
+33_1_0018 [uh] tell me about moe's burgers
+43_1_0001 a cheap restaurant near by that serves meat
+43_1_0002 like to eat pork or beef
+43_1_0003 bacon and eggs . or breakfast
+43_1_0004 more information about addison annex
+3A_1_0001 yeah i'd like to go out for some thai food [uh] not too expensive
+3A_1_0002 [uh] how about six p__m
+3A_1_0003 make it walking distance
+3A_1_0004 tell me about the thai barbecue place
+3A_1_0005 yeah i'm looking for a vegetarian place that's open on wednesday
+3A_1_0006 [mm] i'll s- i'll spend a lot of money this time
+3A_1_0007 doesn't matter how far
+3A_1_0008 tell me about the long life vegi house
+C2_1_0001 i would like to eat american food or mexican food
+C2_1_0002 i would like to [um] eat lunch today
+C2_1_0003 i would like to have lunch
+C2_1_0004 [um] i don't want to spend a lot of money [uh] so something fairly cheap would be good
+C2_1_0005 i wanna eat someplace that's close to i__c__s__i
+C2_1_0006 i want to eat [uh] italian
+C2_1_0007 [um] <i> i don't mind spending a lot of money but <i> <i> <don't> <wanna> i don't wanna go someplace cheap i guess middle range would be good
+C2_1_0008 [uh] i don't mind [uh] having to drive someplace doesn't have to be close to i__c__s__i
+C2_1_0009 i need to find a [uh] place to eat [uh] for next [uh] saturday
+C2_1_0010 i'd like to eat [uh] italian food <or> or american food either one
+C2_1_0011 [uh] i want <the> a restaurant where i can get some lunch [um] tomorrow
+C2_1_0012 i'd like to find something that's fairly cheap
+C2_1_0013 [um] i'd like something that's [uh] within walking distance of i__c__s__i
+C2_1_0014 is there anything cheaper than that
+C2_1_0015 i want to find a inexpensive place to eat dinner
+C2_1_0016 i think i would like to eat some vegetarian food
+C2_1_0017 i would also [um] in addition to vegetarian i would also like to try to see if i can find some mexican food
+C2_1_0018 i want to find some place that's fairly close to i__c__s__i
+C2_1_0019 can you give me some more information on manuel's
+C2_1_0020 i want to find a really nice place to eat lunch next wednesday
+C2_1_0021 i want to eat either french food california food or italian food
+C2_1_0022 i have a car so the distance is not important
+C2_1_0023 can you give me some more information on skates
+C2_1_0024 can you show me <those> the list of restaurants again
+C2_1_0025 i'd like to see some more information on augusta's
+C2_1_0026 can i see the original list again
+C2_1_0027 please tell me more about fourth street grill
+C2_1_0028 a-la-carte . addison annex . amaru . arinell pizza . augusta's
+C2_1_0029 ay-caramba . berkeley thai house . bette's ocean view . blondie's pizza . blue nile
+C2_1_0030 bombay cuisine . brennan's . brick hut cafe . brit-marie's . cactus taqueria
+C2_1_0031 cafe fanny . cafe mar-mara . cafe pastoral . cafe vin . cafe violeta
+C2_1_0032 caffe giovanni . caffe venezia . cambodiana's . casa-de-eva . casbah
+C2_1_0033 cha-am . chez-panisse . chez-panisse cafe . christopher's cafe . claremont seafood
+C2_1_0034 coffee renaissance . continental garden . daruma teashop . elmwood pharmacy . everett and jones barbecue
+C2_1_0035 [beep] fat slice pizza . fat apple's . flint's barbecue . fourth street grill . gertie's
+C2_1_0036 gramma's inn . guerrero's . homemade cafe . hong-fu . hong-kong villa
+C2_1_0037 international house cafe . joshu-ya . juan's place . juice bar collective . kip's
+C2_1_0038 kirala . la mediterranee . la-val's . lalime's . lococo's restaurant
+C2_1_0039 lilly's . long life vegi house maharani . manuel's . mario's la fiesta
+C2_1_0040 [lip_smack] meal ticket . metropole . nadine's . omnivore . oriental food to go
+C2_1_0041 panini . pasand madras cuisine . pepito's mexican deli . petrouchka . picante taqueria
+C2_1_0042 plearn thai cuisine . rich potsticker . ristorante venezia . sandwiches a-go-go . saul's deli
+C2_1_0043 shin-shin . siam cuisine . skates . soup kitchen heike . spenger's
+C2_1_0044 stuffed inn . sujatha's . sushi-sho . taiwan restaurant . thai barbecue
+C2_1_0045 [lip_smack] the milvia . the swallow . top dog . tsing-tao . vasiliki
+C2_1_0046 vegi food . vietnam village . viva taqueria . westside bakery
+C2_1_0047 won thai cuisine . yorkshire fish and chips . zachary's chicago
+83_1_0001 i'd like to eat some chinese food
+83_1_0002 i want to eat this afternoon
+83_1_0003 i want to spend no more than seven dollars
+83_1_0004 i want to travel no more than three blocks
+83_1_0005 i'd like to eat some italian food
+83_1_0006 i'd like to eat monday afternoon
+83_1_0007 i'd like to spend no more than fifty dollars
+83_1_0008 [uh] i'd like to travel no more than twenty blocks
+83_1_0009 when is caffe venezia open during the day
+83_1_0010 i'd like to eat some mexican food today and i'd like to spend no more than . forty dollars
+83_1_0011 [loud_breath] i'd like to eat mexican food today
+83_1_0012 i'd like to spend no more than one hundred dollars
+83_1_0013 [lip_smack] i'd like to go to a restaurant that is not fast food
+83_1_0014 [laughter] [loud_breath] i'd like to
+83_1_0015 i'd like to travel no more than twenty minutes
+83_1_0016 [loud_breath] where is [uh] cactus taqueria located
+83_1_0017 please show the list
+13_1_0001 [lip_smack] i was thinking about going out for some french food tonight
+13_1_0002 how about [loud_breath] twelve dollars a person
+13_1_0003 i'll try to get a car so it shouldn't matter [loud_breath]
+13_1_0004 [loud_breath] why don't you make that up to sixteen dollars
+13_1_0005 [loud_breath] can i have more information on [um] [lip_smack] metropole
+13_1_0006 can you tell me about . asian food in berkeley
+13_1_0007 dinner any night
+13_1_0008 i'm a student so it had best not be better than more more [laughter] best not be more than six dollars a person
+13_1_0009 [lip_smack] doesn't matter how far i wanna see everything here
+13_1_0010 can you tell me more about oriental food to go <to> <go> and [um] vietnam village
+13_1_0011 where's the most expensive russian place in berkeley
+13_1_0012 [loud_breath] dinner is best
+13_1_0013 it can be anywhere
+13_1_0014 [lip_smack] a-la-carte . addison annex . amaru . arinell pizza . augusta's
+13_1_0015 ay-caramba . berkeley thai house . bette's ocean view . blondie's pizza . blue nile
+13_1_0016 brennan's . brick hut cafe . brit-marie's . cactus taqueria . cafe fanny
+13_1_0017 cafe mar-mara . cafe pastoral . cafe vin . cafe violeta . caffe giovanni
+13_1_0018 caffe venezia . cambodiana's . casa-de-eva . casbah . cha-am
+13_1_0019 chez-panisse . chez-panisse cafe . christopher's cafe . claremont seafood . coffee renaissance
+13_1_0020 continental garden . daruma teashop . elmwood pharmacy . everett and jones barbecue . fat slice pizza
+13_1_0021 fat apple's . flint's barbecue . fourth street grill . gertie's . gramma's inn
+13_1_0022 guerrero's . homemade cafe . hong-fu . hong-kong villa . international house cafe
+13_1_0023 joshu-ya . juan's place . juice- juice bar collective . kip's . kirala
+13_1_0024 la mediterranee . la-val's . lalime's . lococo's restaurant . lilly's
+13_1_0025 long life vegi house . maharani . manuel's . mario's la fiesta . meal ticket
+13_1_0026 metropole . nadine's . omnivore . oriental food to go . panini
+13_1_0027 pasand madras cuisine . pepito's mexican deli . petrouchka . picante taqueria
+13_1_0028 plearn thai cuisine . rich potsticker . ristorante venezia . sandwiches a-go-go
+13_1_0029 saul's deli . shin-shin . siam cuisine . skates . soup kitchen heike
+13_1_0030 spenger's . stuffed inn . sujatha's . sushi-sho . taiwan restaurant
+13_1_0031 thai barbecue . the milvia . the swallow . top dog . tsing-tao
+13_1_0032 vasiliki . vegi food . vietnam village . viva taqueria . westside bakery
+13_1_0033 won thai cuisine . yorkshire fish and chips [beep] . zachary's chicago . yorkshire fish and chips
+52_1_0001 i want to eat lunch today
+52_1_0002 i want to eat dinner on sunday evening
+52_1_0003 money is no object
+52_1_0004 since i have a car travel distance is not important
+4B_1_0001 i would like to eat some cuban food not to spend more than twenty five dollars
+4B_1_0002 i would like to eat some russian food and not spend more than ten dollars
+4B_1_0003 i would like to eat this late afternoon
+4B_1_0004 i would like not to travel more than a mile away from . here
+4B_1_0005 i would like to eat some russian food
+4B_1_0006 tell me about
+4B_1_0007 tell me something about petrouchka
+56_1_0001 i would like to have some [uh] fish food for dinner . and [um] i'm not really sure what type of restaurant it should be whether or
+56_1_0002 <like> <to> . i would like to [um] eat tonight [um] at seven o'clock p__m approximately
+56_1_0003 [uh] something in the medium range . let's say about twenty twenty five dollars per person
+56_1_0004 oh [um] how far from i__c__s__i [um] [lip_smack] somewhere either in walking distance or where i can take [uh]
+56_1_0005 could you please give us some more information on gertie's
+56_1_0006 [uh] i would like to go for lunch [uh] to some mexican place [loud_breath]
+56_1_0007 well [uh] [loud_breath] not very much [loud_breath] something in the up to ten dollar range
+56_1_0008 [uh] actually i have a car available now so my friend can take me to [um] anywhere within the east bay . area
+56_1_0009 i haven't yet tried cactus taqueria so could you please give me [um] some additional information on it
+56_1_0010 [uh] thank you for this information but could you please tell me if they [uh] serve alcohol or not
+56_1_0011 could i please see a list of [um] mexican restaurants that i asked for before
+56_1_0012 could you possibly recommend any place yourself
+56_1_0013 thank you very much and goodbye
+A6_1_0001 [loud_breath] [lip_smack] i'm looking for a thai restaurant that is not too expensive and is on south side
+A6_1_0002 [loud_breath] [lip_smack] [um] for dinner . . on the weekends that doesn't require reservations [laughter]
+A6_1_0003 [loud_breath] i'd like some information on cha-am [laughter] . thai restaurant
+A6_1_0004 i'm looking for a restaurant for my parents when they come into town [um] [lip_smack] italian food [um] dressy casual
+A6_1_0005 [lip_smack] [loud_breath] would be for dinner on a friday or saturday evening
+A6_1_0006 [lip_smack] [loud_breath] [um] my parents would be willing to spend fifteen to twenty five dollars on entrees [um]
+A6_1_0007 [lip_smack] [loud_breath] [um] we have an automobile so we can go anywhere within the berkeley area doesn't matter how far . and a restaurant that's fun lik-
+A6_1_0008 [loud_breath] tell me more information on ristorante venezia
+A6_1_0009 [um] [lip_smack] w- [laughter] [loud_breath] show me the list [loud_breath] well no what i wanted to do was [um]
+A6_1_0010 start over [laughter] [loud_breath] . show me the list
+A6_1_0011 [loud_breath] tell me about the musical offering . cafe
+A6_1_0012 [loud_breath] tell me about cafe milano
+A6_1_0013 start over [laughter] [loud_breath] [um] show me the list
+A6_1_0014 [lip_smack] i'm looking for a greek restaurant [um] casual for the weekends evening [um] that's between the
+A6_1_0015 [loud_breath] i don't want to travel any further than ten minutes from i__c__s__i
+A6_1_0016 tell me more information about vasiliki
+A6_1_0017 [loud_breath] do you need reservations for this restaurant
+A6_1_0018 [lip_smack] [loud_breath] i'm looking for a fun [um] mostly college crowd [loud_breath] mexican food restaurant that's cheap
+A6_1_0019 [lip_smack] it would be for the weekends [um] i would prefer it to be no more that ten minutes away from i__c__s__i
+A6_1_0020 [beep] [lip_smack] [loud_breath] tell me more about manuel's
+A6_1_0021 [beep] start over
+A6_1_0022 i'm looking for oh you don't have anything about locations like hearst avenue . finished [laughter] [loud_breath]
+64_1_0001 computer alright i'm really hungry today for some thai food [loud_breath] and [uh] i've got about three and half dollars to spend
+64_1_0002 less than ten minutes . distance in terms of time too
+64_1_0003 <i> <have> i'd like to spend less than six dollars
+64_1_0004 okay i can spring for ten dollars today
+64_1_0005 tell me about nakapan
+64_1_0006 tell me about plearn thai cuisine
+64_1_0007 i'd like to eat mexican food today
+64_1_0008 i only have five dollars and i don't have a lot of time . so less than five minutes
+64_1_0009 show me all the mexican restaurants
+64_1_0010 what's good at cactus taqueria
+64_1_0011 show me all the barbecue places within fifteen minutes of icksee
+64_1_0012 i'm interested in lunch and dinner
+64_1_0013 up to fifteen dollars
+64_1_0014 show me all the barbecue restaurants
+64_1_0015 show me all the mexican restaurants within fifteen minutes drive of icksee
+64_1_0016 show me the santa-fe bar and grill
+6A_1_0001 [um] i'm looking for an indian restaurant
+6A_1_0002 a [um] [loud_breath] [um] an evening buffet . friday or saturday
+6A_1_0003 [uh] about fifteen dollars per person
+6A_1_0004 within three miles of i__c__s__i
+6A_1_0005 [um] does maharani serve vegetarian food
+6A_1_0006 [um] [uh] computer [um] [uh] are there any fancy restaurants in berkeley
+6A_1_0007 with california cuisine
+6A_1_0008 [um] dinner time
+6A_1_0009 [um] [lip_smack] within an hour of icksee [noise]
+6A_1_0010 tell me more about christopher's cafe
+6A_1_0011 [um] show me the list
+6A_1_0012 [uh] do any of the restaurants on the list take credit cards [unintelligible]
+6A_1_0013 which restaurants on the list are open on sundays
+6A_1_0014 [um] [uh] find me restaurants that are on san__pablo avenue
+6A_1_0015 [um] are there any restaurants that are mexican and vegetarian
+6A_1_0016 weeknight dinner
+6A_1_0017 [um] a cheap restaurant
+6A_1_0018 [um] [lip_smack] . within [loud_breath] walking distance of icksee
+6A_1_0019 tell me more about ay-caramba
+6A_1_0020 oh [um] please show me the li-
+6A_1_0021 [um] tell me more about pasand
+6A_1_0022 are there any thai restaurants that are open very late
+6A_1_0023 [um] medium priced . restaurants
+6A_1_0024 <i> <can> dri- i can drive any- anywhere
+6A_1_0025 which of the restaurants on the list are vegetarian
+6A_1_0026 [um] are there russian restaurants in berkeley
+6A_1_0027 are there russian restaurants in berkeley
+6A_1_0028 [um] i want to eat dinner and it can be medium priced
+6A_1_0029 i can drive to dinner
+6A_1_0030 [um] tell me more about petrouchka
+6A_1_0031 [um] [loud_breath] [unintelligible] . are there
+6A_1_0032 [um] are there any falafel restaurants in berkeley
+6A_1_0033 [um] are there places to eat breakfast in berkeley
+6A_1_0034 [um] are there any places for breakfast in berkeley
+6A_1_0035 i would like to walk from icksee and [loud_breath] spend under fifteen dollars and
+6A_1_0036 [uh] show me the information for meal ticket
+6A_1_0037 [um] show me the information for vasiliki
+6A_1_0038 [uh] show me the information for la tour eiffel
+A3_1_0001 i am looking for a medium priced [um] [lip_smack] southeast asian type restaurant like maybe vietnamese or
+A3_1_0002 <dinner> def- [beep] [uh] dinner definitely
+A3_1_0003 actually [um] anywhere is fine probably west berkeley [uh] not too far from campus
+A3_1_0004 okay how about a lower priced
+A3_1_0005 okay how about very expensive
+A3_1_0006 [uh] can you recommend any like particularly good dishes there . or is it too cheap [loud_breath]
+A3_1_0007 i'm looking for dim-sum
+A3_1_0008 how about sushi
+A3_1_0009 this will be for [uh] sunday dinner time
+A3_1_0010 well [mm] medium priced for sushi i guess
+A3_1_0011 as far away as possible
+A3_1_0012 would i need reservations at sushi-sho
+A3_1_0013 could i have that list back again
+A3_1_0014 how's the service at kirala
+A3_1_0015 [uh] how about japanese restaurants that do stuff besides sushi
+A3_1_0016 [beep] [um]  how about lunch . [uh] probably lunch friday . and since it's lunch it'll be near campus
+A3_1_0017 ultra cheap
+A3_1_0018 how about a little upscale from that
+81_1_0001 i'd like some really good food on saturday night
+81_1_0002 i would like to eat some chinese food on saturday night
+81_1_0003 i'd like . thai food on friday lunchtime . cheap
+81_1_0004 [uh] i'd like to have indian food [uh] today
+81_1_0005 expensive
+81_1_0006 do you have anything about chez-panisse
+81_1_0007 like a listing for cheap meals very close to i__c__s__i open on sunday
+81_1_0008 for this same case are these two restaurants open [uh] for lunch
+81_1_0009 i'd like to go up to the next higher price category so not these cheap ones but [uh] just more expensive little bit more expensive
+81_1_0010 i'd like a listing of restaurants that are fairly far from i__c__s__i and are moderate price not too cheap not too
+81_1_0011 for this same case it needs to be sunday night
+81_1_0012 can you give me a listing of the kinds of food . that are available
+81_1_0013 please give me a list of the food choices
+81_1_0014 okay for the same case how about [uh] thai or [uh] vietnamese or french or italian
+81_1_0015 i didn't want the ones that were close just the ones that are far
+81_1_0016 how about italian and quite expensive is fine
+4F_1_0001 where can i go for lunch today
+4F_1_0002 [um] i would like to eat french food
+4F_1_0003 [lip_smack] [loud_breath] i would like to spend less than ten dollars
+4F_1_0004 oh [loud_breath] i don't wanna travel too far
+4F_1_0005 [um] . please increase the amount that i wanna spend to twenty dollars
+4F_1_0006 [loud_breath] [um] can you give me more information [lip_smack] [loud_breath] on the french restaurant
+4F_1_0007 oh
+4F_1_0008 [loud_breath] where can i go to ea-
+4F_1_0009 i wanna eat lunch today
+4F_1_0010 i wanna spend about five dollars
+4F_1_0011 [lip_smack] i don't wanna travel too far
+4F_1_0012 [loud_breath] [um] please give me more information on oriental food to go
+4F_1_0013 [loud_breath] [beep] where can i go to have dinner today . tonight
+4F_1_0014 [loud_breath] i don't care what kind of food i eat
+4F_1_0015 [loud_breath] i'd like to spend less than ten dollars
+4F_1_0016 i don't care <*how*> f- how far i travel
+4F_1_0017 [loud_breath] [lip_smack] [loud_breath] [uh] can you list . the vegetarian restaurants
+4F_1_0018 [loud_breath] [uh] . can you give me more information on long life vegi house and vegi food
+4F_1_0019 [lip_smack] [loud_breath] can you give me information on the restaurant called vegi food
+21_1_0001 i'm looking for an inexpensive oriental restaurant that's very close
+21_1_0002 [loud_breath] i'd like a chinese restaurant that's near by and is open all week
+21_1_0003 tell me more about oriental food to go please thanks
+21_1_0004 [lip_smack] i'm looking for some pizza and i'd like it to be somewhere near by
+21_1_0005 i'd like to have pizza for lunch
+21_1_0006 [lip_smack] i'd like the most expensive pizza that i can get for lunch
+21_1_0007 i'd like some very expensive pizza that's far away from here please
+21_1_0008 [loud_breath] i'd like to have my expensive pizza for lunch please
+21_1_0009 i'd like some expensive pizza that's far away for dinner please
+21_1_0010 i'd like some thai food that's near by but not plearn's please
+21_1_0011 i'd like to spend a medium amount of money please
+21_1_0012 i'd like to have thai food for lunch please
+21_1_0013 i'd like some northern italian food [uh] for dinner but i don't wanna make a reservation
+21_1_0014 what other italian restaurants are near caffe venezia
+21_1_0015 i'm looking for a croissant [um] somewhere near by and inexpensive [uh] for breakfast
+21_1_0016 i'd like some french food that's far away and expensive and not a family restaurant because i hate
+55_1_0001 i want to find a restaurant where i can have dinner with a friend
+55_1_0002 [um] i prefer to have oriental food
+55_1_0003 [uh] think i can spend up to ten dollars per person
+55_1_0004 [um] we have a car so maybe we can drive for around ten or fifteen minutes from icksee
+55_1_0005 this the list is too long [um] i want only japanese food
+55_1_0006 can you give me some recommendation which one serves better sushi
+55_1_0007 [um] do you know what type of food they serve in kirala
+55_1_0008 [um] i want a place where i can have ice cream
+55_1_0009 can you tell me [uh] which cafe that i can go to . [uh]  friday evening after six
+55_1_0010 i want to spend less than five dollars
+55_1_0011 [um] i can drive so it can be anywhere
+55_1_0012 can you show me th- [uh] more information about international house cafe
+55_1_0013 can i see the list please
+55_1_0014 can you show me what you know about cafe durant
+88_1_0001 could i see that [uh] list of restaurants again
+88_1_0002 do you have <any> <information> more information on manuel's
+88_1_0003 i wanted to try some south american food
+88_1_0004 i like to eat sometime this evening
+88_1_0005 what i had in mind was somewhere between five and ten dollars . inexpen-
+88_1_0006 i have no constraint about distance from i__c__s__i
+88_1_0007 do you have a telephone number for this cafe violeta
+88_1_0008 how many chinese restaurants are there in berkeley
+88_1_0009 i ask for the number of chinese restaurants in
+88_1_0010 i am interested in a good chinese dinner
+88_1_0011 i definitely do not want to have [uh] cheap chinese food
+88_1_0012 i would like to walk no more than ten minutes
+88_1_0013 what days of the week is hong-fu open
+88_1_0014 is the hong-kong villa open on tuesdays
+88_1_0015 i'm interested in
+88_1_0016 i'm looking for a good place to eat breakfast
+88_1_0017 any kind of food except [uh] oriental
+88_1_0018 you should not constrain the cost at all
+88_1_0019 not too far . somewhere between five and ten minutes
+88_1_0020 what kind of food does the continental garden's feature
+88_1_0021 i wanna take someone for dinner in a really fancy place
+BA_1_0001 [lip_smack] i'd like to find a restaurant to eat in on saturday
+BA_1_0002 i believe i'd like to eat some italian food
+BA_1_0003 i'd like to spend less than ten dollars
+BA_1_0004 i don't really care as long as it's near [um]  berkeley as long as it's in berkeley
+BA_1_0005 could you give me some more information on caffe giovanni
+53_1_0001 i want to eat some italian food
+53_1_0002 i'd like to eat tonight at six
+53_1_0003 i wanna spend ten dollars a plate
+53_1_0004 how about three blocks
+53_1_0005 <what> <are> what is this restaurant's hours
+8A_1_0001 are there any persian restaurants in berkeley
+8A_1_0002 are there any ethiopian restaurants in berkeley
+8A_1_0003 tomorrow evening
+8A_1_0004 any amount
+8A_1_0005 anywhere in berkeley
+8A_1_0006 how many people can [uh] the casbah handle
+8A_1_0007 [loud_breath] i'd like to know all the restaurants around here that i can eat very quickly at
+8A_1_0008 no more than ten dollars
+8A_1_0009 [beep] right now
+8A_1_0010 which one is closest to here
+8A_1_0011 [uh] i only want restaurants that are within two minutes walk from here
+8A_1_0012 i said two minutes not five
+8A_1_0013 [lip_smack] tell me about oriental food to go
+8A_1_0014 [loud_breath] [lip_smack] what's the best french restaurant around
+8A_1_0015 [lip_smack] i want to go and have dinner tomorrow
+8A_1_0016 doesn't matter
+8A_1_0017 anywhere
+8A_1_0018 tell me about a-la-carte
+8A_1_0019 tell me about the other one
+8A_1_0020 tell me about . cambodian restaurants in berkeley . anywhere in berkeley
+8A_1_0021 anytime . make it cheap too
+8A_1_0022 tell me about cambodiana's
+8A_1_0023 tell me about all of the . cambod- [um] let's see [uh] the veg-
+8A_1_0024 could you tell me information about la-val's
+8A_1_0025 tell me about all of the european restaurants
+8A_1_0026 [uh] could you give me information about petrouchka
+8A_1_0027 could you print the menu for vasiliki
+8A_1_0028 [beep] yuck . [uh] what smorgasbord restaurants are around
+5A_1_0001 i'm looking for a place where i can get a burrito
+5A_1_0002 i'm looking for mexican food
+5A_1_0003 i want to eat at lunch time [loud_breath] or dinner time or even breakfast
+5A_1_0004 [loud_breath] i don't have much money i want to spend very little
+5A_1_0005 [loud_breath] i don't want to travel very far from i__c__s__i it should be walking distance
+5A_1_0006 [lip_smack] tell me more about ay-caramba
+5A_1_0007 [loud_breath] tell me more about manuel's
+5A_1_0008 [um] so i i was kidding i really want thai food
+5A_1_0009 or should i say start over start over . . . okay [loud_breath] computer
+5A_1_0010 [loud_breath] . [um] i'm looking for a thai restaurant within walking distance from i__c__s__i i want to eat lunch
+5A_1_0011 it should be reasonably cheap not very cheap
+5A_1_0012 please tell me everything you know about plearn
+5A_1_0013 hi please show me that list again
+5A_1_0014 thanks dude
+B8_1_0001 [um] . a french restaurant close to i__c__s__i
+B8_1_0002 [um] i want to eat at seven o'clock . and i want to spend ten dollars a person
+B8_1_0003 [um] french food . [um] dinner . [um] twenty dollars
+B8_1_0004 [um] tell me more about metropole
+B8_1_0005 [um] dinner wednesday [um] . thirty dollars . each
+B8_1_0006 [um] italian food
+B8_1_0007 traveling doesn't matter [um]
+B8_1_0008 [um] ristorante venezia
+B8_1_0009 [um] gimme information on sujat- sujatha's
+B8_1_0010 gimme information on sujatha's
+B8_1_0011 gimme information on maharani
+B8_1_0012 indian restaurants for dinner twelve dollars . [um] within five minutes from i__c__s__i
+B8_1_0013 distance from i__c__s__i [um] twenty minutes
+B8_1_0014 list all russian places
+B8_1_0015 gimme information on . petr- petrouchka
+B8_1_0016 information on petrouchka
+B8_1_0017 [um] american food breakfast . [uh] six dollars . twenty minutes from i__c__s__i
+B8_1_0018 i need to find a japanese restaurant [um] for lunch twelve dollars a person and twenty minutes from the i__c__s__i
+70_1_0001 i'm looking for a restaurant that serves mexican food
+70_1_0002 i want to eat on friday night around seven o'clock
+70_1_0003 i want to spend about ten dollars a person
+70_1_0004 i wanna travel around . a mile from i__c__s__i
+70_1_0005 could i have more information on mario's la fiesta
+70_1_0006 could you give me a listing of chinese restaurants that [er] cost around fifteen dollars a per-
+70_1_0007 i want to eat in the afternoon for lunch
+70_1_0008 one about five minute walk from i__c__s__i
+70_1_0009 could i have <an> additional information on oriental food to go
+06_1_0001 [loud_breath] i'd like to eat some indian food tonight
+06_1_0002 less than twelve dollars a head
+06_1_0003 [lip_smack] i don't really care
+06_1_0004 [lip_smack] i'd like to take a friend for some vietnamese lunch today
+06_1_0005 [lip_smack] less than twenty four dollars total
+06_1_0006 [lip_smack] [loud_breath] less than ten minutes
+06_1_0007 i'd like to take my father for an expensive french dinner tonight
+06_1_0008 [lip_smack] i don't care
+06_1_0009 [loud_breath] [lip_smack] [loud_breath] show me more about the metropole
+06_1_0010 [lip_smack] [um]
+06_1_0011 [lip_smack] show me all the thai restaurants in berkeley
+06_1_0012 show me more on siam cuisine
+96_1_0001 i feel like eating indian food today
+96_1_0002 i'd like to eat indian food
+96_1_0003 what's bombay cuisine like
+96_1_0004 i would like to eat chinese food
+96_1_0005 i want to eat this evening
+96_1_0006 i want to spend lots of money
+96_1_0007 i want it to be within walking distance ten minutes or so
+96_1_0008 i don't mind a cheap restaurant
+96_1_0009 what's hong-kong villa like
+96_1_0010 [lip_smack] i wannu eat [uh] somewhere really nice
+96_1_0011 [lip_smack] [loud_breath] i'd like to eat french cuisine or california cuisine or something like that
+96_1_0012 [lip_smack] [loud_breath] i want to eat this evening
+96_1_0013 i've got a car so i can go anywhere in berkeley
+96_1_0014 tell me some more about omnivore
+96_1_0015 tell me about chez-panisse
+96_1_0016 that was chez-panisse cafe what about chez-panisse
+96_1_0017 okay that one looks pretty good end of session
+7C_1_0001 are there any austrian restaurants in berkeley
+7C_1_0002 please show me a list of all italian restaurants
+7C_1_0003 are there any restaurants open after midnight
+7C_1_0004 i do not want to spend too much money
+7C_1_0005 that does not matter i have a car
+7C_1_0006 can i get spaghetti in the caffe giovanni
+7C_1_0007 <which> <are> <the> oh which are the cheapest places near i__c__s__i where i <go> can go for lunch
+7C_1_0008 [uh] which are the most affordable places close to i__c__s__i for lunch
+7C_1_0009 any food is good for me
+7C_1_0010 i want to spend five dollars
+7C_1_0011 what type of food do you get at la tour eiffel
+7C_1_0012 can you show me the list of restaurants again
+7C_1_0013 addison annex
+7C_1_0014 do you know mel's restaurant
+7C_1_0015 which restaurant is farthest away from i__c__s__i
+7C_1_0016 where do i get german food
+7C_1_0017 where can i get egyptian or arabian food
+7C_1_0018 is there a middle eastern restaurant
+7C_1_0019 i would like to eat in the morning
+7C_1_0020 that doesn't matter
+7C_1_0021 i would like to have dinner
+7C_1_0022 [uh] show me la mediterranee
+4D_1_0001 [um] i'd like to go out for lunch for taiwanese food
+4D_1_0002 [lip_smack] [loud_breath] i'd like to spend about six dollars each meal
+4D_1_0003 [lip_smack] [loud_breath] i'd like to walk about five to ten minutes
+4D_1_0004 [lip_smack] can i have more information about this taiwan restaurant
+4D_1_0005 [lip_smack] please can i see the menu of this restaurant
+4D_1_0006 [lip_smack] [loud_breath] i'd like to go out for asian lunch
+4D_1_0007 oh no i plan to spend about six dollar-
+4D_1_0008 i don't wanna walk more than ten minutes
+4D_1_0009 [loud_breath] [uh] give me more information about the cambodiana's restaurant
+4D_1_0010 [lip_smack] please show the list again
+4D_1_0011 [loud_breath] i want more information about the thai barbecue restaurant
+4D_1_0012 [lip_smack] i'd like to go out into american restaurant
+4D_1_0013 [lip_smack] i'd like to have a list of the german restaurants
+4D_1_0014 [lip_smack] [loud_breath] i'd like to get a list of the japanese restaurants
+4D_1_0015 right now [laughter] [laughter] [laughter] [laughter] [laughter] [laughter] [laughter]
+4D_1_0016 about si- six dollars
+4D_1_0017 not more than ten minutes
+4D_1_0018 [loud_breath] i still wanna go to a japanese restaurant i wanna spend not more than ten dollars and i don't wanna drive
+4D_1_0019 [lip_smack] [loud_breath] i wanna spend six to twelve dollars
+4D_1_0020 i wanna <drive> <le-> drive less than ten minutes
+4D_1_0021 [loud_breath] <where> <do> <they> ha- which restaurant has sushi
+4D_1_0022 where's the nicest waiter [laughter]
+4D_1_0023 i like to go out for mediterranean food
+4D_1_0024 in ten minutes
+4D_1_0025 i wanna spend between six and ten dollars
+4D_1_0026 less than ten minutes
+4D_1_0027 [um] i can spend whatever money it costs
+4D_1_0028 [lip_smack] [loud_breath] distance can be up to twenty minutes walk
+4D_1_0029 [loud_breath] i wanna go for dinner to that restaurant
+4D_1_0030 [lip_smack] this is the end
+9C_1_0001 oh [mm] i'd like to find out all greek restaurants
+9C_1_0002 on sunday or . saturday night
+9C_1_0003 not more than twenty dollars for a meal
+9C_1_0004 not more than . thirty minutes by car
+9C_1_0005 please tell me more about the restaurant vasiliki [loud_breath] [loud_breath]
+9C_1_0006 please tell me more about vasiliki [uh] [unintelligible]
+9C_1_0007 tell me all greek restaurants in berkeley
+9C_1_0008 i'd like to have information about chinese restaurants
+9C_1_0009 i want to know all chinese restaurants where the meal is less than five dollar
+9C_1_0010 i'm able to travel up to thirty minutes
+9C_1_0011 [lip_smack] are there any german restaurants
+9C_1_0012 is there any restaurant with . imported beer
+9C_1_0013 where can i have rose wine
+9C_1_0014 is there a restaurant with having more than hundred places
+9C_1_0015 [loud_breath] i need a restaurant with more than hundred places . oh
+9C_1_0016 i like californian food
+9C_1_0017 i want to eat each day
+76_1_0001 i like chinese food [uh] could you make me some proposals
+76_1_0002 [um] i would like to go for dinner tonight to chinese restaurant
+76_1_0003 not too much maybe between five and eight dollars per person
+76_1_0004 i have a car so i don't care
+76_1_0005 tell me more about oriental food to go
+76_1_0006 [uh] i would like to have sushi . today for lunch
+76_1_0007 <i> <do> <not> <know> i do not want to know anything more about chinese restaurants i want to know about sushi
+76_1_0008 do you know about a place called sushi-ko
+76_1_0009 [uh] i guess the french cuisine is the best all over the world do you have something appropriate for me
+76_1_0010 please show me french restaurants in berkeley
+76_1_0011 i would like to go for dinner . tomorrow night to a french restaurant
+76_1_0012 i would spend until twenty dollars per person . and it should be
+76_1_0013 should be in driving distance
+76_1_0014 tell me more about that la tour eiffel
+76_1_0015 what can you tell me about i think it was called . [mm] metropole
+76_1_0016 give me the list of all french restaurants in berkeley
+9D_1_0001 i want <to> to eat european food
+9D_1_0002 i want to eat in the evening
+9D_1_0003 let's say up to fifteen dollar
+9D_1_0004 i want to travel up to three kilometers
+9D_1_0005 [lip_smack] tell me a little bit more about nadine's
+9D_1_0006 i'm looking for a restaurant
+9D_1_0007 i would like to eat american food
+9D_1_0008 i want to do it in the evening
+9D_1_0009 up to ten dollar
+9D_1_0010 two kilometers
+9D_1_0011 give me a little bit more information about top dog
+9D_1_0012 i want to go for breakfast in the surroundings of the i__c__s__i
+9D_1_0013 i'd like to eat mexican
+9D_1_0014 up to twenty dollar
+9D_1_0015 i'd like to have european breakfast
+9D_1_0016 it could be in a surrounding of five kilometers
+75_1_0001 [lip_smack] [loud_breath] are there any chinese restaurants within walking distance of i__c__s__i
+75_1_0002 in the early evening
+75_1_0003 not more than [beep] ten dollars
+75_1_0004 [lip_smack] [loud_breath] do any of the restaurants on this list serve vegetarian food
+75_1_0005 does hong-kong villa serve spicy szechuan cuisine
+75_1_0006 are any of the restaurants on the list open in the morning
+75_1_0007 list me all the german restaurants in berkeley
+75_1_0008 my in-laws will visit me next weekend and i would like to take them to a indian restaurant [uh] any suggestions
+75_1_0009 [lip_smack] [loud_breath] my budget is very limited and i don't want to spend more than five dollars
+75_1_0010 it should preferably be within walking distance
+75_1_0011 [lip_smack] [loud_breath] which of these two restaurants serves [uh] southern indian cuisine
+75_1_0012 show me the list again
+75_1_0013 i have been told that the first restaurant on the list serves so- south indian [uh] dishes
+75_1_0014 do you know of any restaurants that serve pickled pigs feet
+75_1_0015 how about boiled pigs feet that's a german delicacy
+75_1_0016 the listed restaurants s- don't sound like german restaurants can you show me an excerpt of their menus
+75_1_0017 can you at least list the nationality of these restaurants
+75_1_0018 my wedding anniversary is coming up and i would like a list of the really fancy restaurants
+75_1_0019 the kind of food doesn't matter as long as it is expensive
+75_1_0020 [loud_breath] this saturday night
+75_1_0021 distance doesn't matter we're gonna take a chauffeured limousine
+75_1_0022 please list only those restaurants in the highest price category
+75_1_0023 can you give me some more information on the metropole restaurant
+75_1_0024 thank you
+A5_1_0001 i'm very hungry today and i want to go to dinner this evening
+A5_1_0002 maybe asian food or african <would> would be fine
+A5_1_0003 it shouldn't be m- more than ten dollars including all the drinks
+A5_1_0004 distance is no problem because i have a fast car maybe not more than twenty minutes with a car
+A5_1_0005 how about the blue nile it sounds very good could you show me a menu
+A5_1_0006 show me the list please
+A5_1_0007 can you give me some more information about the shin-shin please
+A5_1_0008 shin-shin looks fine can you please m- make a reservation for a table this evening at seven
+A5_1_0009 i want to go to lunch today and i'm not familiar with berkeley at all it shouldn't be far away
+A5_1_0010 i would like german food especially bavarian is my preferred kind of food
+A5_1_0011 okay then <let's> let's try middle european
+A5_1_0012 money's no problem it has to be expensive because i have a very prosperous guest with me
+A5_1_0013 let's try the metropole at shattuck
+A5_1_0014 i like fre- french food a lot please make a reservation for this evening for a table for two persons at eight
+A5_1_0015 can you show me the list again
+A5_1_0016 how about caffe venezia do they have tortellini
+A5_1_0017 please cancel the reservation w- [um] at the other restaurant i would prefer caffe venezia
+97_1_0001 [lip_smack] [loud_breath] [lip_smack] i want to go to eat some african food today
+97_1_0002 i want to eat on saturday
+97_1_0003 [loud_breath] i like to spend ten dollar
+97_1_0004 i want to go not f- f- [um] farther than ten minutes
+97_1_0005 [loud_breath] [lip_smack] [loud_breath] how about if the distance is about half an hour
+97_1_0006 [loud_breath] please provide me some more information about blue nile
+97_1_0007 [lip_smack] [loud_breath] [lip_smack] i wanna go for italian dinner
+97_1_0008 [lip_smack] i wanna go today
+97_1_0009 [loud_breath] i wanna spend less than ten dollars for us both
+97_1_0010 [loud_breath] it should be very close to ic- i__c__s__i
+97_1_0011 [loud_breath] [lip_smack] let's try it with fast food
+97_1_0012 [loud_breath] no i don't like pizza
+97_1_0013 [loud_breath] [lip_smack] so what about russian dinner
+97_1_0014 so i would spend more than twelve dollars for us both
+97_1_0015 [lip_smack] i would go a distance of five minutes
+97_1_0016 so i would go a distance of six minutes
+97_1_0017 [loud_breath] [lip_smack] so provide me some more information about the <ristorante> ristorante venezia
+20_1_0001 i would like to [uh] have dinner on saturday .  in berkeley
+20_1_0002 i would like to have a . famous [um] american restaurant
+20_1_0003 oh i don't know how much money i need for a [uh] excellent dinner
+20_1_0004 oh it shouldn't be too far away from  i__c__s__i [loud_breath] probably a mile or so
+20_1_0005 i would like to [uh] get you helped in take any cost [uh]  for thi-
+20_1_0006 tell me about soup kitchen heike
+20_1_0007 give me once more the list please
+20_1_0008 how about saul's deli
+20_1_0009 <tell> <me> tell me what saul's deli .  is like
+20_1_0010 do you have a [uh] list of the available [uh] meals at . saul's deli
+20_1_0011 let's try it again . can you tell me the type of courses i can get at that restaurant
+20_1_0012 start over please
+20_1_0013 let's have a [uh] .  nice french restaurant
+20_1_0014 i still want to have dinner on saturday
+20_1_0015 take any of the categories
+20_1_0016 i will stay with this one mile from i__c__s__i
+20_1_0017 how about la tour eiffel
+20_1_0018 how about chez-panisse
+20_1_0019 do you have a [uh] list of the meals at chez-panisse
+20_1_0020 do you have other gourmet restaurants californian style
+20_1_0021 howbout
+20_1_0022 do you have other charming restaurants
+20_1_0023 do you have restaurants for napav-
+20_1_0024 do you have [uh] cafes in your list
+20_1_0025 i want to eat on wednesday for lunch
+20_1_0026 i don't mind about the money
+20_1_0027 i don't mind about the length of the travel
+20_1_0028 excellent
+66_1_0001 [uh] i would like to find a place [uh] for lunch today
+66_1_0002 is there any good place for thai food
+66_1_0003 [uh] actually i want to spend about ten dollars maximum
+66_1_0004 the place should be reachable within ten minutes
+66_1_0005 [uh] i would like to know more about thai barbecue
+66_1_0006 [uh] can i have the list again
+66_1_0007 [uh] what about nakapan
+66_1_0008 [uh] give me back the list
+66_1_0009 [um] there is a place it's called like plearn thai cuisine . just give me more details about that
+66_1_0010 please the list
+66_1_0011 [uh] give me more details about thai barbecue
+66_1_0012 [uh] start over
+38_1_0002 i would like to go out for dinner in some italian place
+38_1_0003 [uh] around thirty dollars
+38_1_0004 walking distance
+38_1_0005 tell me more about caffe venezia
+38_1_0006 i like to go to a japanese restaurant for lunch
+38_1_0007 around fifteen dollars
+38_1_0008 fifteen minutes
+38_1_0009 [uh] tell me more about joshu-ya
+38_1_0010 [lip_smack] [loud_breath] i like to go to pizza place for lunch
+38_1_0011 three dollars
+38_1_0012 five minutes
+38_1_0013 i would like to take my mother out for dinner to an indian restaurant
+38_1_0014 i don't have much money to spend let's say no more than twenty dollars
+38_1_0015 i don't have a car so we are going to walk let's say no more than <ten> secon- ten minutes oh
+2A_1_0001 i would like to eat something tomorrow morning . somewhere in berkeley
+2A_1_0002 [uh] american breakfast
+2A_1_0003 [uh] no more than ten dollars
+2A_1_0004 as close as possible
+2A_1_0005 [uh] at what time [uh] does this restaurant open
+2A_1_0006 so i would like [uh] this time to go to an italian restaurant
+2A_1_0007 [uh] in the late evening
+2A_1_0008 [uh] fifty dollars
+2A_1_0009 doesn't really matter
+2A_1_0010 [uh] well i don't care about the cost you could give me . more restaurants
+2A_1_0011 okay [uh] could you give me a list of [uh] very expensive restaurants but i don't care about [uh] which kind of food
+2A_1_0012 [tap] [uh] i would like [uh] a list of very expensive restaurants in berkeley
+2A_1_0013 [uh] it doesn't matter [uh] which kind of food
+2A_1_0014 [um] doesn't matter when i like just to have a list of very expensive restaurants
+2A_1_0015 [uh] as far as you want
+2A_1_0016 [uh] just cut down the list to the most expensive restaurants
+2A_1_0017 i would like to have some more information about fondue fred's . in telegraph avenue
+2A_1_0018 w- which kind of food is the swiss food
+2A_1_0019 [uh] s- so [uh] what's the price for an average meal in this restaurant
+2A_1_0020 [uh] could you please show me the list again
+2A_1_0021 some more information about restaurant in solano avenue
+2A_1_0022 could you go back to the list
+2A_1_0023 [uh] i like to see only [uh] restaurants in shattuck avenue
+8E_1_0001 i'd like to have [uh] a list of restaurants in berkeley . [uh] italian restaurants
+8E_1_0002 what's the cheapest italian restaurant in berkeley [tap]
+8E_1_0003 i'd like to go to a restaurant . <in> . for  the dinner
+8E_1_0004 just five minutes far from icksee  by walk
+8E_1_0005 a restaurant where i can spend . six to twelve dollars
+8E_1_0006 a restaurant that i can reach by car in five minutes [tap]
+8E_1_0007 i'd like to have more information about the restaurant caffe giovanni [tap]
+8E_1_0008 [uh] i'd like to go to a chinese restaurant
+8E_1_0009 i'd like to take a dinner
+8E_1_0010 i'd like to go to the most expensive res- [uh] chinese restaurant in berkeley [loud_breath]
+8E_1_0011 it doesn't matter the distance from icksee [tap]
+8E_1_0012 it doesn't matter the cost of the restaurant
+8E_1_0013 where can i have a vegetarian dinner
+8E_1_0014 [uh] what's a restaurant a chinese restaurant where i can have a [uh] vegetarian dinner
+8E_1_0015 what's the closest french restaurant to icksee
+8E_1_0016 it doesn't matter the cost
+8E_1_0017 what's the close day of metropole
+8E_1_0018 give me information about la tour eiffel
+8E_1_0019 what are the other [uh] what are the other french restaurants in berkeley
+8E_1_0020 it doesn't matter the distance from icksee
+8E_1_0021 what about a-la-carte [tap]
+8E_1_0022 i dunno what's [laughter] [laughter] [uh]
+8E_1_0023 what about au-coquelet
+8E_1_0024 what about au-coquelet
+8E_1_0025 can you give me a list of portuguese restaurants
+8E_1_0026 can you give me list of [uh] japanese restaurants on telegraph
+8E_1_0027 just for lunch
+8E_1_0028 doesn't matter the cost
+8E_1_0029 i would like to go on telegraph
+8E_1_0030 i'd like to go to a ja- a japanese restaurant five minutes from icksee spending . [uh]  not-
+8E_1_0031 we like to go to a chinese restaurant five minutes far from icksee for dinner spending not a lot of money
+8E_1_0032 i'd like to go to a chinese restaurant five minutes from icksee [loud_breath] not spending a lot of money
+8E_1_0033 for breakfast
+19_1_0001 i want to find a place where i can eat japanese food
+19_1_0002 i want to go out for dinner
+19_1_0003 say twenty dollars per head
+19_1_0004 say about [uh] five mile radius
+19_1_0005 i don't care about the cost
+19_1_0006 could you tell me a little more about joshu-ya's
+19_1_0007 could you show me the list
+19_1_0008 tell me a little more about kirala
+19_1_0009 could you tell me a little more about *sushi-ko*
+19_1_0010 i want to find out about italian restaurants in the area
+19_1_0011 i want to find out about dinner
+19_1_0012 i don't care about the money
+19_1_0013 it should be in the neighborhood of berkeley
+19_1_0014 it should be in the neighborhood of berkeley
+19_1_0015 tell me a bit more about caffe venezia
+B5_1_0001 i'd like to go to a fancy restaurant
+B5_1_0002 i'd like french food
+B5_1_0003 next thursday
+B5_1_0004 dinner
+B5_1_0005 i want to eat french food
+B5_1_0006 i want to have dinner
+B5_1_0007 it can be really expensive
+B5_1_0008 as far away as we can get
+B5_1_0009 i want to be far away from i__c__s__i
+B5_1_0010 tell me about le bateau ivre
+B5_1_0011 tell me about a-la-carte
+B5_1_0012 show me the list again
+B5_1_0013 let me see the list again
+B5_1_0014 i want . the restaurant to be really close to i__c__s__i
+B5_1_0015 i want to eat breakfast instead
+B5_1_0016 start over
+B5_1_0017 i want to eat breakfast at a really cheap place tomorrow
+B5_1_0018 (thi)-s is for breakfast
+B5_1_0019 what kinds of food do you know about
+B5_1_0020 i want to eat american food
+B5_1_0021 a moderate distance away
+B5_1_0022 about . fifteen minutes
+B5_1_0023 fif!teen minutes . away
+B5_1_0024 i said . fif!teen minutes [laughter]
+B5_1_0025 within half a mile from icks-(ee)
+B5_1_0026 [loud_breath] tell me about sandwiches a-go-go
+B5_1_0027 sandwiches a-go-go
+B5_1_0028 show me the list please
+B5_1_0029 [um] . i'd like to know more about the homemade cafe
+B5_1_0030 start over
+B5_1_0031 i wanna eat some really cheap chinese food right now
+B5_1_0032 i want it to be lunch
+B5_1_0033 about twenty minutes' walk
+B5_1_0034 tell me about sun-hong-kong
+B5_1_0035 sun-hong-kong
+B5_1_0036 tell me about blue nile
+B5_1_0037 start over
+B5_1_0038 i want to go to a vegetarian restaurant
+B5_1_0039 i want to eat next monday . i want to have dinner
+B5_1_0040 dinner please
+B5_1_0041 it doesn't really matter
+B5_1_0042  i want it to be close by here
+B5_1_0043 i said . i want it to be close by [laughter]
+B5_1_0044 close by
+B5_1_0045 about five minutes' walk from i__c__s__i
+B5_1_0046 tell me about plearn thai cuisine
+B5_1_0047 let me see the list again
+B5_1_0048 tell me about the pizza place
+B5_1_0049 jupiter
+B5_1_0050 start over
+B5_1_0051 tell me about greek restaurants in berkeley
+B5_1_0052 i want to eat dinner today
+B5_1_0053 !dinner . and i don't care how much it costs
+B5_1_0054 dinner
+B5_1_0055 i want to eat dinner toni-(ght) [noise]
+B5_1_0056 i want !greek food . and i want to eat dinner
+B5_1_0057 i don't care what meal
+B5_1_0058 it doesn't matter
+B5_1_0059 i don't care
+B5_1_0060 doesn't matter
+B5_1_0061 end of session
+B5_3_0001 can you tell me [ehm] .  what good french restaurants there are in the area
+B5_3_0002 i would like to spend about twenty dollars for dinner on a saturday night
+B5_3_0003 what else can you tell me about the metropole
+B5_3_0004 can you give me more information about la-tour-eiffel
+B5_3_0005 can you return to the menu of all restaurants
+B5_3_0006 can you return to the list [eh]
+B5_3_0007 can you give me more information on arinell's pizza
+B5_3_0008 can you give me information on japanese food
+B5_3_0009 can you tell me more about
+3A_2_0001 start over
+3A_2_0002 yeah my parents are coming into town and . they're paying so . i'd like to go to a really nice restaurant california cuisine for dinner
+3A_2_0003 i want to eat california food . and [um] . it doesn't really matter where it is
+3A_2_0004 [uh] they'll be here two weeks from saturday so that would be good . and . anytime in the evening would be fine
+3A_2_0005 i want california cuisine and i want it a week from saturday [loud_breath]
+3A_2_0006 why don't you just tell me about cafe pastoral
+3A_2_0007 start over
+3A_2_0008 (i'd) like to go out for lunch today [uh] cheap chinese food would be good no no make that thai [loud_breath]
+3A_1_0009 i want cheap thai food and . i'm in a hurry so it should be close to icksee and it should be fast
+3A_1_0010 (i) said i want cheap thai food
+3A_1_0011 i want to eat today
+3A_1_0012 i want to eat today . real soon
+3A_1_0013 start over
+3A_1_0014 yeah i'd like to go out this sunday for omelets and cappuccino . somewhere in north berkeley
+3A_1_0015 -cappuccino for breakfast on sunday
+3A_1_0016 [loud_breath] well what are omelets anyways . [uh] i guess it could be french or california or just plain old american
+3A_1_0017 start over
+3A_1_0018 start over
+3A_1_0019 (ye)-ah i want to take [uh] my girlfriend out for sushi
+3A_1_0020 [uh] this would be next tuesday [uh] say between . seven and eight o'clock at night . and . we'll be going from work so i don't want it too far from icksee
+3A_1_0021 start over
+3A_1_0022 start over
+3A_1_0023 what place has the best croissants in berkeley
+3A_1_0024 i want the best croissants
+3A_1_0025 why don't we just go out for pizza instead
+3A_1_0026 [uh] my friends and i'll be getting together tonight . round six p__m
+3A_1_0027 so it would be really good
+3A_1_0028 start over
+3A_1_0029 are there any restaurants in town that . serve middle eastern food
+3A_1_0030 i . want to go out for dinner this friday . and [uh] i've got a car so it doesn't really matter how far it is
+3A_1_0031 -eat this friday
+3A_1_0032 (ea)-t this friday
+3A_1_0033 friday . dammit
+3A_1_0034 oh we've somebody on an expense account so . money is no . no matter
+3A_1_0035 we've got a car so . i don't care how far we have to go
+3A_1_0036 (mat)-ter how far we have to go
+4E_1_0037 [lip_smack] hello .  i would like to . [um] eat next saturday italian food
+4E_1_0038 [lip_smack] i would like to eat on saturday
+4E_1_0039 [uh] i would like to have . [um] lunch
+4E_1_0040 [lip_smack] i want to spend about . fifteen bucks
+4E_1_0041 i want . to spend . fifteen dollars
+4E_1_0042 i want to spend . fifteen dollars
+4E_1_0043 i want to spend . twelve . dollars
+4E_1_0044 i want to spend . twelve . bucks
+4E_1_0045 i don't want to spend more than . twelve bucks
+4E_1_0046 doesn't matter
+4E_1_0047 it doesn't matter
+4E_1_0048 expensive
+4E_1_0049 [lip_smack] i would like to go . [uh] on next wednesday
+4E_1_0052 hello . i would like to . eat some . indian food
+4E_1_0053 i would like to eat on . next tuesday
+4E_1_0054 i would like to eat [um] . to have dinner
+4E_1_0055 i would like to have . dinner
+4E_1_0056 i would like to have dinner
+4E_1_0057 [uh] i want to have breakfast
+4E_1_0058 (i)-t doesn't matter
+4E_1_0059 -as possible
+4E_1_0060 cheap
+4E_1_0061 [um] . ten minutes
+4E_1_0062 [um] i don't want to have breakfast i want to have dinner
+4E_1_0063 i want to eat at [um]
+4E_1_0064 i want to eat at eight o'clock in the evening
+4E_1_0065 at eight o'clock . in the evening
+4E_1_0066 i like to have dinner
+4E_1_0067 [uh] i like to have lunch
+39_1_0068 start . over
+39_1_0069 start . over
+39_1_0070 start . over
+39_1_0071 i like to eat mexican . food . this night
+39_1_0072 this night and [uh] i like to spend . no . more than . forty . dollars
+39_1_0073 i like to eat  this night . and . not far from . seven . eight miles
+39_1_0074 not more than ten miles
+39_1_0075 from five to ten miles
+39_1_0076 can i have the list of foods of . viva taqueria
+39_1_0077 can i have . the list of food . of vi- viva taqueria
+39_1_0078 start over
+39_1_0079 i like to have . [uh] dinner . [uh] wednesday night .  of thai food
+39_1_0080 wednesday night
+39_1_0081 i don't want to spend more than . forty dollars
+39_1_0082 not more than . an hour
+39_1_0083 less than . one hour
+39_1_0084 less than one . !hour
+39_1_0085 not more than twenty miles
+39_1_0086 i like information about . berkeley thai house
+5A_1_0087 i'd like to try something: [uh] east asian
+5A_1_0088 i'd like some chinese food
+5A_1_0089 i want to eat today
+5A_1_0090 i want . to eat . today
+5A_1_0091 i want to eat lunch
+5A_1_0092 oh i don't want to spend much
+5A_1_0093 i don't have much money
+5A_1_0094 i want . to spend . a lot . of money
+5A_1_0095 i have no money
+96_1_0004 i would like to eat chinese food
+5A_1_0096   i want to spend five dollars
+5A_1_0097 some place within walking distance
+5A_1_0098 i wanna know if sun-hong-kong has [uh] let's see what do i want i want to know if they have oh saday beef chow-fun
+5A_1_0099 well tell me if you  like oriental food to go
+5A_1_0100 i'm willing to spend a lot of money
+5A_1_0101 i'm willing to spend a lot of money
+5A_1_0102 i'll pay up to twenty dollars
+5A_1_0103 i'm willing to drive
+5A_1_0104 i want to go somewhere within . driving distance
+5A_1_0105 i have a car
+5A_1_0106 i said i've got a car
+5A_1_0107 i'm speaking clear english now right so . i say i've got a car . and so i'm willing to drive . so take me somewhere further than five minutes away from icksee
+5A_1_0108 i wanna burrito
+5A_1_0109 i want something cheap
+5A_1_0110 i don't have a car
+5A_1_0111 this place should be in walking distance
+5A_1_0112 are the waitresses pretty at ay-caramba
+5A_1_0113 tell me about the other one
+5A_1_0114 au-coquelet
+5A_1_0115 my friend here likes italian food
+5A_1_0116 howbout thai food
+5A_1_0117 i'm willing to pay ten dollars or so
+5A_1_0118 tell me everything you know about thai barbecue
+5A_1_0119 [noise] nina thinks you're totally cool
+5A_1_0120 i'm into chinese
+5A_1_0121 start over
+85_1_0122 i'm looking for some place to take somebody picky
+85_1_0123 i wanna eat really good food . i don't care how much it costs
+85_1_0124 i want very high quality food . something really tasty
+85_1_0125 like to go some place expensive
+85_1_0126 hi . i'd like to get anything except italian food
+85_1_0127 okay . look . i wanna eat dinner . tonight . and i want to spend . thirty dollars . okay
+85_1_0128 like to spend . up to thirty dollars . and . i'm a vegetarian
+85_1_0129 how about something farther away
+85_1_0130 i want to drive there in a car
+85_1_0131 i don't care whether it's close or not
+85_1_0132 is there any place around here with entertainment
+96_1_0004 i would like to eat chinese food
+85_1_0133 start over
+85_1_0134 start . over
+85_1_0135 i'd like to go some place with a bar
+85_1_0136 is there any place that has a full bar and . coffee
+85_1_0137 i just wanna get like drinks . and snacks . although my friend here wants a sandwich
+85_1_0138 i'd like sandwiches . and coffee
+85_1_0139 is there any place .  for dinner . that isn't closed on monday
+85_1_0140 i'd pay a lot
+85_1_0141 i'll spend any amount of money for good vietnamese food
+85_1_0142 i could go very far
+85_1_0143 start . over
+85_1_0144 i have to be on the road by eight a__m
+85_1_0145 -s please
+85_1_0146 i'd like . to get breakfast
+85_1_0147 i wanna eat today
+85_1_0148 can i go to just like a normal american restaurant . maybe a diner
+85_1_0149 i'd like to spend . i don't know under ten bucks something like that
+85_1_0150 i could spend . under ten bucks
+85_1_0151 okay i could spend under ten dollars
+85_1_0152 i'd be willing to shell out anything up to about [uh] ten semolians [laughter] [noise]
+85_1_0153 so which one of these places is really good
+85_1_0154 howbout an american restaurant
+85_1_0155 start . over
+85_1_0156 i'd like to go for dinner . to kind of upscale yuppie california cuisine kind of place
+85_1_0157 i want a california cuisine restaurant please
+85_1_0158 i want dinner on friday night and . no reservations
+85_1_0159 i could take a date
+85_1_0160 i don't care
+85_1_0161 i don't care
+85_1_0162 i don't care about that either
+85_1_0163 so which is the cheapest
+85_1_0164 start . over
+85_1_0165 i'd like a very authentic mexican restaurant
+85_1_0166 i want like just an authentic mexican restaurant with burritos . and maybe no seats
+85_1_0167 is there a take out place
+85_1_0168 why won't it stop
+85_1_0169 so i just want to go some place quick for lunch get a sandwich bring it back to my desk
+85_1_0170 lunch today would be just fine
+85_1_0171 i'm on foot . so it better be close
+85_1_0172 [laughter] so howbout a cheap greek restaurant
+85_1_0173 (abou)-t that sleazy souvlaki place on shattuck that nobody ever goes into
+44_1_0174 [uh] i wish to have some [uh] fish and chips
+44_1_0175 i want to have fish and chips
+44_1_0176 fish and chips
+44_1_0177 american food
+44_1_0178 i wish to eat american food
+44_1_0179 i wish to eat american food
+44_1_0180 sunday
+44_1_0181 i wish to eat brunch
+44_1_0182 where can i [uh] drink a coffee
+44_1_0183 where can i drink a coffee
+44_1_0184 where can i drink a coffee
+44_1_0185 where can i have a cup of coffee
+44_1_0186 go for . coffee
+44_1_0187 go for . cafe
+44_1_0188 i want to go . to a [unintelligible]
+44_1_0189 which one is the closest to icksee
+44_1_0190 which one is the closest to i__c__s__i
+44_1_0191 which one is the cheapest
+44_1_0192 i want to eat [uh] some fruit
+44_1_0193 i wish to have . a plate of spaghetti
+44_1_0194 i want to have a plate of spaghetti
+44_1_0195 do you know where i can eat spaghetti
+44_1_0196 do you know where i can find [uh] an italian restaurant
+44_1_0197 do you know [cough] whe- [uh]
+44_1_0198 i want to eat italian food
+44_1_0199 i want to eat italian food
+44_1_0200 i want to eat italian food
+44_1_0201 i want to eat . italian food
+44_1_0202 i want . to eat . it- !italian food
+44_1_0203 i want spend a lot of money
+44_1_0204 i want an expensive restaurant
+44_1_0205 i want . an expensive restaurant
+44_1_0206 where can i [uh] eat . a taco
+44_1_0207 i want to have some tacos
+44_1_0208 where can i eat some tacos
+96_1_0004 i would like to eat chinese food
+44_1_0209 i want to eat mexican food
+44_1_0210 i want an an expensive mexican restaurant
+44_1_0211 i want an inexpensive mexican restaurant
+44_1_0212 i want to eat a dinner
+44_1_0213 i want to eat a dinner
+44_1_0214 i want to eat a dinner
+44_1_0215 what about thai restaurants
+44_1_0216 i want [uh] a restaurant which is not very close to:  i__c__s__i
+44_1_0217 i want a more expensive restaurant
+44_1_0218 where can i eat steak
+44_1_0219 is there any other: restaurant close to this one
+44_1_0220 where can i have breakfast
+44_1_0221 start . over
+44_1_0222 start . over
+44_1_0223 !start . !over
+17_1_0224 -t indian food
+17_1_0225 i'd like to eat . indian food
+17_1_0226 tomorrow
+17_1_0227 i'd like to have dinner
+17_1_0228 dinner please
+17_1_0229 around twenty bucks
+17_1_0230 around twenty dollars
+17_1_0231 i'd like to know something more about shilpa . please
+17_1_0232 i'd like to know more about shilpa . please
+17_1_0233 show me that list again . please
+17_1_0234 tell me m-
+17_1_0235 show me that list again please
+17_1_0236 show me the indian restaurant list again please
+17_1_0237 i'd like to have indian food please
+17_1_0238 tell me more about bombay cuisine please
+17_1_0239 (swit)-ch to chinese food now
+17_1_0240 what kind of food do they have at shin-shin
+17_1_0241 i'd like to know more about oriental food to go . am i screaming . oh no [laughter]
+17_1_0242 go back to the chinese restaurant list please
+17_1_0243 what's the most expensive one
+17_1_0244 tell me more about this place
+17_1_0245 go back to chinese restaurants please
+17_1_0246 tell me more about hong-kong east ocean . please
+17_1_0247 forget it
+17_1_0248 let's move to italian food now
+17_1_0249 aren't there any less expensive ones
+17_1_0250 tell me about less expensive italian restaurants please
+17_1_0251 list other italian restaurants please
+17_1_0252 what about cheap italian restaurants
+17_1_0253 tell me more about it
+17_1_0254 tell me more about it . oh well
+17_1_0255 where can i get a good american breakfast
+17_1_0256 start over
+17_1_0257 where can i get an american breakfast
+17_1_0258 american food . please
+17_1_0259 the day after tomorrow
+17_1_0260 want to eat breakfast
+17_1_0261 it has to be a cheap restaurant
+17_1_0262 very far away
+17_1_0263 as far as you want
+17_1_0264 not too: far
+96_1_0004 i would like to eat chinese food
+17_1_0265 not . too far
+17_1_0266 give me more information about [beep] cafe durant
+17_1_0267 thanks . go back to the original list
+17_1_0268 tell me more about . soup kitchen heike
+17_1_0269 start over [laughter]
+42_1_0270 hi . [uh] what do you have about chinese restaurants
+42_1_0271 i'm interested in chinese food
+42_1_0272 howbout dinner
+42_1_0273 i'd like something on the cheap side
+42_1_0274 something very cheap please
+42_1_0275 i'm looking for something within walking distance
+42_1_0276 [uh] can you tell me more about the [uh] sun-hong-kong
+42_1_0277 good job . thank you very much
+42_1_0278 [uh] can i start over please
+42_1_0279 i'm looking for a very fancy [uh]  fr- [uh] french restaurant for dinner
+42_1_0280 on saturday
+42_1_0281 i don't care
+42_1_0282 [uh] money doesn't matter
+42_1_0283 any amount is fine
+42_1_0284 within five minutes' [uh] walking
+42_1_0285 how about the metropole
+42_1_0286 what about some [uh] indian food in the same area
+42_1_0287 i'm interested in indian food
+42_1_0288 okay let's try something else . [uh] do you have any austrian restaurants on file
+42_1_0289 [uh] . i'd like a restaurant [uh] near solano avenue
+42_1_0290 near solano please
+42_1_0291 -thing in north berkeley
+42_1_0292 can i start over please
+42_1_0293 start over please
+42_1_0294 i'd like to eat very cheap
+42_1_0295 any will be fine
+42_1_0296 any type of food
+42_1_0297 [uh] very close to icksee
+42_1_0298 [uh] tonight
+42_1_0299 okay [uh] any cost now
+42_1_0300 [uh] howbout something on the expensive side
+42_1_0301 and [uh] what about thai f- restaurants anywhere in berkeley
+42_1_0302 all right . can you give me more information about the one you have there
+42_1_0303 okay i wanted more information about [uh] siam cuisine
+42_1_0304 can you make a reservation for me
+42_1_0305 okay [uh] can you help me with something: japanese: for: dinner
+42_1_0306 i'm looking for a japanese restaurant
+42_1_0307 [uh] anywhere in berkeley . and [uh] s- open on fridays
+42_1_0308 [uh] something cheaper please
+42_1_0309 [uh] what about japanese restaurants at any price
+42_1_0310 can you give me information about yoshi's
+42_1_0311 -screwed up right cause it's recording . although i've been silent for quite a while
+42_1_0312 talking about spanish restaurants
+42_1_0313 [uh] start over please
+42_1_0314 spanish please
+42_1_0315 tell me about [uh] skates on the bay
+42_1_0316 all right . thank you . start over
+87_2_0001 i would like to eat in berkeley
+87_2_0002 tell me more about the . cafe durant
+87_2_0003 where is the telegraph street
+87_2_0004 what is the cheapest restaurant in town
+87_2_0005 i would like to eat . pizza
+87_2_0006 i would like to eat . pizza
+87_2_0007 i would like to have . lunch
+87_2_0008 i would like to spend . at most . eight dollars
+87_2_0009 tell me more about blondie's pizza
+87_2_0010 i would like to go on thursday
+87_2_0011 where can i have seafood
+87_2_0012 where can i have . seafood
+87_2_0013 where can i have . breakfast
+87_2_0014 tell me more about university avenue
+87_2_0015 start over
+87_2_0016 which restaurant is within . four minutes from icksee
+87_2_0017 which restaurant . is within four minutes from i__c__s__i
+68_1_0001 start over
+68_1_0002 i wanna have dinner
+68_1_0003 i wanna know about chez-panisse
+68_1_0004 i wanna have dinner some place
+68_1_0005 i wanna have dinner
+68_1_0006 i don't really care what kind of food
+68_1_0007 i wanna go some place that's . mediumly expensive
+68_1_0008 i want the restaurant to be moderate or expensive
+68_1_0009 i want to eat on a sunday
+68_1_0010 let's try sunday
+68_1_0011 i want to spend about fifteen dollars
+68_1_0012 i will go anyplace
+68_1_0013 i don't want thai food
+68_1_0014 no thai food for me
+68_1_0015 change it to italian food
+68_1_0016 i'll go any place in berkeley
+68_1_0017 tell me about caffe giovanni
+68_1_0018 tell me about caffe venezia
+68_1_0019 tell me about venezia
+68_1_0020 tell me about some ethiopian places
+68_1_0021 change it to mexican food
+68_1_0022 let's hear about juan's [loud_breath]
+68_1_0023 tell me about juan's place
+68_1_0024 why don't you show me the list
+68_1_0025 okay [um] . i wanna be near campus
+68_1_0026 i wanna go on north side
+68_1_0027 what if i wanna go on sunday for lunch
+68_1_0028 i wanna have good pizza
+68_1_0029 what's kip's like
+68_1_0030 tell me about kip's
+68_1_0031 show me the list
+68_1_0032 tell me about jupiter
+68_1_0033 i want some place really expensive
+B6_1_0001 i would like to spend at most twenty dollars
+B6_1_0002 i would like to eat during the weekend
+B6_1_0003 during the weekend
+B6_1_0004 during the weekend
+B6_1_0005 during the last days of the week
+B6_1_0006 on saturday or sunday
+B6_1_0007 -to twenty minutes by car
+B6_1_0008 what about la tour eiffel
+B6_1_0009 i would like to read the list again
+B6_1_0010 please show me the list
+B6_1_0011 i would like to eat mexican food
+96_1_0004 i would like to eat chinese food
+B6_1_0012 what about taqueria de berkeley
+B6_1_0013 please show me the list
+B6_1_0014 please show me the list
+B6_1_0015 i would like some information about fourth street grill
+B6_1_0016 the list . please
+B6_1_0017 i would like a place within five minutes from i__c__s__i
+B6_1_0018 what about arinell
+B6_1_0019 i would like to eat breakfast
+B6_1_0020 i would like [uh] breakfast
+B6_1_0021 breakfast
+B6_1_0022 breakfast
+B6_1_0023 breakfast
+B6_1_0024 i would like to have lunch
+B6_1_0025 i would like a place within ten minutes from i__c__s__i
+B6_1_0026 i would like some information about cafe milano
+B6_1_0027 what about cafe milano
+B6_1_0028 what about ristorante venezia
+B6_1_0029 i would like french food
+B6_1_0030 what about metropole
+B6_1_0031 i would like to spend no more than fifteen dollars
+B6_1_0032 no more than fifteen dollars
+61_1_0001 i'm looking for a nice cheap place on north side . [um] chinese or could be like  persian food
+61_1_0002 looking for a place tonight
+61_1_0003 tonight
+61_1_0004 i could walk a bit [uh] ten minutes
+61_1_0005 what sort of things do they have at oriental food to go
+61_1_0006 show me the list again
+61_1_0007 let's start over
+61_1_0008 i want a real nice restaurant . with good food . [um] could be pretty far away . say thirty minutes' walk . from here
+61_1_0009 i want a place for lunch today
+61_1_0010 american food . californian food
+61_1_0011 i'm looking for lunch today
+61_1_0012 today
+61_1_0013 i would like to eat lunch
+61_1_0014 it doesn't matter i have a car
+61_1_0015 it doesn't matter .  i have a car
+61_1_0016 it doesn't matter . i don't care how far
+61_1_0017 do you have chez-panisse in your database
+61_1_0018 what about chez-panisse cafe
+61_1_0019 go back to the list
+96_1_0004 i would like to eat chinese food
+61_1_0020 how about something a little cheaper
+61_1_0021 i'm looking for something not as expensive
+61_1_0022 what about . a  medium range . expensive restaurant
+61_1_0023 i want something with two dollar signs
+61_1_0024 i don't want to pay more than fifteen dollars
+61_1_0025 let's start over again
+61_1_0026 i'm looking for a thai restaurant that's real close
+61_1_0027 i want to go . out right now for lunch
+61_1_0028 real cheap like three to four dollars
+61_1_0029 it should be very close
+61_1_0030 okay . howbout something . about ten minutes from icksee
+61_1_0031 okay it can be quite far from icksee
+61_1_0032 thursday lunch please
+61_1_0033 i can spend up to ten dollars
+61_1_0034 how about plearn
+61_1_0035 start over
+79_1_0001 start over
+96_1_0004 i would like to eat chinese food
